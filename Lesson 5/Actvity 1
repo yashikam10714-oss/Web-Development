@@ -1,0 +1,64 @@
+<DOCTYPE html>
+    <html>
+        <head>
+            <title>about dogs</title>
+        </head>
+        <body>
+            <header>
+                <h1> Nevigrators links </h1>
+                <nav>
+                    <ul>
+                        <li><a href="#hone">Home</a></li>
+                        <li><a href="#posts">Posts</a></li>
+                        <li><a href="#contact">Contact</a></li>
+                    </ul>
+                </nav>
+            </header>
+            
+            <main>
+                <section>
+                    <article>
+                        <h2>Facts about dogs</h2>
+                        <p>
+
+                            Dogs have a sense of time but don’t understand the ‘concept’ of time. Unlike humans, dogs don’t have
+
+the ability to create actual measures of time, like the second, hour, and minute, and they don’t
+
+know how to read clocks. So, telling them ”I’ll be back in 15 minutes” won’t really do much, but we
+
+understand that you feel like you have to do it anyway! Dogs are capable of being trained based on
+
+past events, and can be taught to anticipate future events based on past experiences. Pavlov’s dogs
+
+are the perfect example of this.
+
+                        </p>
+                    </article>
+                    <aside>
+                        <p>
+
+                            The dog is a domesticated descendant of the wolf. Also called the domestic dog, it is derived from
+
+extinct Pleistocene wolves, and the modern wolf is the dog's nearest living relative. Dogs were the
+
+first species to be domesticated by hunter-gatherers over 15,000 years ago before the development of
+
+agriculture.
+
+                        </p>
+                    </aside>
+                </section>
+                <figure>
+                    <img src="dog pic.jpg" alt="No image"
+                    <figcaption> dog</figcaption>
+                </figure>
+                <audio controls>
+                    <source src="dog-barking-406629 (1).mp3" Type="audio/mp3"
+                </audio>
+                <video>
+                    <source src="3042473-uhd_3840_2160_30fps.mp4" Type="video/mp4"
+                </video>
+            </main>
+        </body>
+        </html>
