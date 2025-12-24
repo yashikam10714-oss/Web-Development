@@ -1,24 +1,29 @@
-<!DOCTYPE html>
 <html>
     <head>
         <title>relit</title>
     </head>
     <body>
-        <h1>Personal detail form</h1>
         <form>
+            <fieldset>
+                <legend>
+                    <h3> Personal Information </h3>
+                </legend>
             <label>Name</label><br>
-            <input type='text'  id="Name"><br><br>
+            <input type='text' > 
             <label>Email id</label><br>
-            <input type="text"  id="Email"><br><br>
+            <input type="text" >
             <label>Contact Number (will be hidden)</label><br>
-            <input type="password"  id="Contact"><br><br>
+            <input type="password">  
             <label> Gender </label><br>
             <input type="Radio"  id="Female"  name="Gender"  value="Female">Female<br>
             <input type="Radio"  id="male"  name="Gender"  value="male">Male<br>
+            <label>Birthday</label><br>
+            <input type="date"  id="Birthday"><br>
             <label>Favourite City</label><br>
             <input type="checkbox"  id="City"  value="Dehli">Dehli<br>
             <input type="checkbox"  id="City"  value="Mumbai">Mumbai<br>
             <input type="submit">
+            </fieldset>
         </form>
-    </body>
+        </body>
 </html>
