@@ -1,3 +1,10 @@
 h3{
     color:blueviolet;
 }
+*{
+    font-size:30px;
+}
+
+.myclass{
+    color:chartreuse;
+}
